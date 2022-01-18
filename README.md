@@ -1,7 +1,8 @@
-### 用法 cookie存放于当前目录下  shoplaza.cookie
+### Usage 
+#### The cookie is stored in the current directory : shoplaza.cookie  
 
 ```
 go run upload.go example.myshoplaza.com image_url
 ```
 
-#### 然后会获得店匠的URL
+#### Then you will get the URL of the shoplaza 
